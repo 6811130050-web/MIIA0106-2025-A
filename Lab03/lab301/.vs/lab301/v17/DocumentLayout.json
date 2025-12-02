@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106\\MIIA0106-2025-A\\Lab03\\lab301\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B49E7F93-AA50-48A4-A811-4F0E8AFAF9EA}|lab301\\lab301.vcxproj|C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106\\MIIA0106-2025-A\\Lab03\\lab301\\lab301\\lab301.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B49E7F93-AA50-48A4-A811-4F0E8AFAF9EA}|lab301\\lab301.vcxproj|solutionrelative:lab301\\lab301.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab301.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106\\MIIA0106-2025-A\\Lab03\\lab301\\lab301\\lab301.cpp",
+              "RelativeDocumentMoniker": "lab301\\lab301.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106\\MIIA0106-2025-A\\Lab03\\lab301\\lab301\\lab301.cpp",
+              "RelativeToolTip": "lab301\\lab301.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T09:04:52.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
