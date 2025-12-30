@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5765FF-7752-47A3-B3DC-D344E06BB1A7}|lab07.5\\lab07.5.vcxproj|C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.5\\lab07.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A5765FF-7752-47A3-B3DC-D344E06BB1A7}|lab07.5\\lab07.5.vcxproj|solutionrelative:lab07.5\\lab07.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9EB42-28EF-43ED-B424-B595C918F4F8}|lab07.4\\lab07.4.vcxproj|C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.4\\lab07.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42E9EB42-28EF-43ED-B424-B595C918F4F8}|lab07.4\\lab07.4.vcxproj|solutionrelative:lab07.4\\lab07.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020F3D24-B3E7-4D2F-8D40-121A71A30234}|lab07.3\\lab07.3.vcxproj|C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.3\\lab07.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{020F3D24-B3E7-4D2F-8D40-121A71A30234}|lab07.3\\lab07.3.vcxproj|solutionrelative:lab07.3\\lab07.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A699AA91-C2D1-47F9-963C-40B58E1DEA56}|lab07.2\\lab07.2.vcxproj|C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.2\\lab07.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A699AA91-C2D1-47F9-963C-40B58E1DEA56}|lab07.2\\lab07.2.vcxproj|solutionrelative:lab07.2\\lab07.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04400DB0-787F-423C-9937-3EB024590629}|lab07.1\\lab07.1.vcxproj|C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.1\\lab07.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04400DB0-787F-423C-9937-3EB024590629}|lab07.1\\lab07.1.vcxproj|solutionrelative:lab07.1\\lab07.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E2EEAC-8292-43B3-AA81-9DFC998775DC}|lab07\\lab07.vcxproj|C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07\\lab07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8E2EEAC-8292-43B3-AA81-9DFC998775DC}|lab07\\lab07.vcxproj|solutionrelative:lab07\\lab07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab07.5.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.5\\lab07.5.cpp",
+              "RelativeDocumentMoniker": "lab07.5\\lab07.5.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.5\\lab07.5.cpp*",
+              "RelativeToolTip": "lab07.5\\lab07.5.cpp*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T09:02:00.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab07.4.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.4\\lab07.4.cpp",
+              "RelativeDocumentMoniker": "lab07.4\\lab07.4.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.4\\lab07.4.cpp",
+              "RelativeToolTip": "lab07.4\\lab07.4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T08:57:56.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab07.3.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.3\\lab07.3.cpp",
+              "RelativeDocumentMoniker": "lab07.3\\lab07.3.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.3\\lab07.3.cpp",
+              "RelativeToolTip": "lab07.3\\lab07.3.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T08:49:58.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab07.2.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.2\\lab07.2.cpp",
+              "RelativeDocumentMoniker": "lab07.2\\lab07.2.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.2\\lab07.2.cpp",
+              "RelativeToolTip": "lab07.2\\lab07.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T07:27:10.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lab07.1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.1\\lab07.1.cpp",
+              "RelativeDocumentMoniker": "lab07.1\\lab07.1.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07.1\\lab07.1.cpp",
+              "RelativeToolTip": "lab07.1\\lab07.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T07:18:50.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lab07.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07\\lab07.cpp",
+              "RelativeDocumentMoniker": "lab07\\lab07.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B\\MIIA0106-2025-A\\Lab07\\lab07\\lab07\\lab07.cpp",
+              "RelativeToolTip": "lab07\\lab07.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-30T07:14:30.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

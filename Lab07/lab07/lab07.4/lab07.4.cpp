@@ -1,0 +1,30 @@
+﻿//คำสั่ง: เขียนฟังก์ชัน swapValue(int* a, int* b) เพื่อสลับค่าของตัวแปร 2 ตัว
+//เงื่อนไข : ต้องสลับค่าด้วย pointer(dereference) และเรียกใช้ด้วย & x, & y
+
+#include <iostream>
+using namespace std;
+
+void swapValue(int* a, int* b)
+{  
+    int temp = *a;
+    *a = *b;
+	*b = temp;
+}
+int main()
+{
+    int x = 5, y = 10;
+    swapValue(&x, &y);
+    cout << x << " " << y << endl;
+    return 0;
+}
+
+// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
+// Debug program: F5 or Debug > Start Debugging menu
+
+// Tips for Getting Started: 
+//   1. Use the Solution Explorer window to add/manage files
+//   2. Use the Team Explorer window to connect to source control
+//   3. Use the Output window to see build output and other messages
+//   4. Use the Error List window to view errors
+//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
+//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
